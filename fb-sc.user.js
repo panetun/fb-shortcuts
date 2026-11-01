@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        FB key bindings
-// @namespace   Ichaelus
+// @namespace   panetun
 // @include     https://www.facebook.com/*
 // @version     1
 // @grant       none
